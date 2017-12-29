@@ -1,0 +1,10 @@
+{
+    "server":"*.*.*.*",
+    "server_port":*,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"your password",
+    "timeout":300,
+    "method":"salsa20",
+    "fast_open": false
+}

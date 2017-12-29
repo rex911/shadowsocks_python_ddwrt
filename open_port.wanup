@@ -1,0 +1,2 @@
+#!/bin/sh
+iptables -I INPUT  -p tcp --dport * -d *.*.*.* -j ACCEPT
